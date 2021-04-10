@@ -1,9 +1,10 @@
 import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">Portfolio: Mary Wenzel :p</header>
+    <div>
+      <h1>Portfolio: Mary Wenzel :p</h1>
     </div>
   );
 }
